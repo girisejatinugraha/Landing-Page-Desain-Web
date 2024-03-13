@@ -77,14 +77,14 @@ ul li a:hover{
 
 .srch{
     font-family: 'Times New Roman';
-    width: 200px;
+    width: 120px;
     height: 40px;
     background: transparent;
     border: 1px solid  #FFD700;
     margin-top: 13px;
     color: #ffffff;
     border-right: none;
-    font-size: 15px;
+    font-size: 8px;
     float: left;
     padding: 10px;
     border-bottom-left-radius: 5px;
